@@ -50,4 +50,4 @@ arquivo.write('Volumes with status "available" ' + str(count_av))
 arquivo.close()
 
 # function to send report file 'instances.txt' and mapped values;
-send_msg_gchat(count_is, count_av, count_vt)
+send_msg_slack(count_is, count_av, count_vt)
