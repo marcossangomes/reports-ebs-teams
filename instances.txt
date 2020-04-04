@@ -1,0 +1,12 @@
+Instâncias sem tags i-xyz
+Volume tageado vol-111
+Volume tageado vol-222
+Instâncias sem tags i-abc
+Instâncias sem tags i-333
+Volume não tageado vol-987 o status do volume se encontra em "available"
+
+____________________
+
+Volumes tageados 2
+Instâncias sem tag 3
+Volumes com status available 1
